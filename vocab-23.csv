@@ -1,0 +1,44 @@
+Greek,Part of Speech,English,Test
+"ἕτερος, ἑτέρα, ἕτερον",adj 212,one; the other; different,23
+"ἥμισυς, ἡμίσεια, ἥμισυ",adj 313,half,23
+"μέγας, μεγάλη, μέγα",adj 313,"great, big",23
+"ἀληθής, ἀληθές",adj 33,true,23
+"σαφής, σαφές",adj 33,clear,23
+εὖ,adv,well,23
+μηδαμοῦ,adv,nowhere,23
+σχεδόν,adv,"nearly, almost",23
+ἐξ οὗ,conj,since,23
+καί,conj,"and, even, also, actually",23
+μέχρι,conj,until,23
+τε…τε…,conj,both … and …,23
+"γῆ, γῆς, ἡ",noun 1 f,"land, earth",23
+"λύπη, λύπης, ἡ",noun 1 f,"pain, distress",23
+"τελευτή, τελευτῆς, ἡ",noun 1 f,end,23
+"τύχη, τύχης, ἡ",noun 1 f,"chance, luck, fortune (good or bad)",23
+"ἑταῖρος, ἑταίρου, ὁ",noun 2 m,companion,23
+"οἶνος, οἴνου, ὁ",noun 2 m,wine,23
+"ἱερόν, ἱεροῦ, τό",noun 2 n,temple,23
+"ἀκρόπολις, ἀκροπόλεως, ἡ",noun 3 f,citadel; the Acropolis,23
+"ἐλπίς, ἐλπίδος, ἡ",noun 3 f,"hope, expectation",23
+"σάλπιγξ, σάλπιγγος, ἡ",noun 3 f,trumpet,23
+"φύσις, φύσεως, ἡ",noun 3 f,nature,23
+"λέων, λέοντος, ὁ",noun 3 m,lion,23
+"γένος, γένους, τό",noun 3 n,"type, family, race",23
+"πρᾶγμα, πράγματος, τό",noun 3 n,"thing, matter",23
+ἅμα,prep,at the same time as DAT; together with DAT,23
+πρός,prep,"to, towards, against ACC",23
+"αὐτόν, αὐτήν αὐτό",pronoun,(acc./gen./dat. only —also plural) him; her; it; them,23
+"ἀγγέλλω, ἀγγελῶ, ἤγγειλα, ἠγγέλθην",verb,I announce,23
+"ἀθυμέω, ἀθυμήσω, ἠθύμησα",verb,I am despondent,23
+"ἀντέχω, ἀνθέξω, ἀντέσχον",verb,"I endure, withstand",23
+"βλέπω, βλέψω, ἔβλεψα",verb,I look,23
+"δακρύω, δακρύσω, ἐδάκρυσα",verb,"I weep, cry",23
+"ἐπαινέω, ἐπαινέσω, ἐπῄνεσα, ἐπῃνέθην",verb,I praise,23
+"καίω, καύσω, ἔκαυσα, ἐκαύθην",verb,"I burn, set on fire",23
+"καταλύω, καταλύσω, κατέλυσα, κατελύθην",verb,I break up,23
+"κατηγορέω, κατηγορήσω, κατηγόρησα, κατηγορήθην",verb,I accuse GEN,23
+"παρασκευάζω, παρασκευάσω, παρεσκεύασα, παρεσκευάσθην",verb,I prepare,23
+"πηδάω, πηδήσομαι, ἐπήδησα",verb,I leap,23
+"ῥέω, ῥυήσομαι, ἔρρύην",verb,I flow,23
+"τέμνω, τεμῶ, ἔτεμον, ἐτμήθην",verb,I cut,23
+"φημί, φήσω, ἔφην",verb (def),I say,23

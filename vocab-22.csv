@@ -1,0 +1,44 @@
+Greek,Part of Speech,English,Test
+"αἴτιος, αἰτία, αἴτιον",adj 212,responsible,22
+"ἔσχατος, ἐσχάτη, ἔσχατον",adj 212,"last, furthest",22
+"καλός, καλή, καλόν",adj 212,"fine, beautiful, handsome",22
+"εὔνους, εὔνουν",adj 22,"loyal, kind",22
+"πρόθυμος, πρόθυμον",adj 22,"eager, ready",22
+ἔτι,adv,"still, yet",22
+μάτην,adv,in vain,22
+σφόδρα,adv,very much,22
+ἡνίκα,conj,when,22
+μήδε,conj,"and...not, but...not, not even",22
+"αἰσχύνη, αἰσχύνης, ἡ",noun 1 f,"shame, disgrace",22
+"οἰκία, οἰκίας, ἡ",noun 1 f,"house, home",22
+"τιμή, τιμῆς, ἡ",noun 1 f,honour,22
+"φυλακή, φυλακῆς, ἡ",noun 1 f,"guard, watch",22
+"εἴσοδος, εἰσόδου, ἡ",noun 2 f,entry,22
+"βωμός, βωμοῦ, ὁ",noun 2 m,altar,22
+"ἰατρός, ἰατροῦ, ὁ",noun 2 m,doctor,22
+"λοχαγός, λοχαγοῦ, ὁ",noun 2 m,commander,22
+"πόνος, πόνου, ὁ",noun 2 m,"toil, pain",22
+"ἐπιτήδεια, ἐπιτηδείων, τά",noun 2 n,provisions,22
+"πρόσωπον, προσώπου, τό",noun 2 n,face,22
+"λαμπάς, λαμπάδος, ἡ",noun 3 f,torch,22
+"γέρων, γέροντος, ὁ",noun 3 m,old man,22
+"τείχισμα, τειχίσματος, τό",noun 3 n,fortification,22
+γάρ,particle,for,22
+καίπερ,particle,although,22
+τοι,particle,I assure you,22
+ἀμφί,prep,"around, near (+ acc.); concerning (+ gen.)",22
+πρός,prep,in addition to DAT,22
+"ἄγω, ἄξω, ἤγαγον, ἤχθην",verb,"I lead, bring",22
+"ἀπαντάω, ἀπαντήσομαι, ἀπήντησα",verb,I meet (+ dat.),22
+"καλέω, καλῶ, ἐκάλεσα, ἐκλήθην",verb,"I call, summon",22
+"κατέχω, καθέξω or κατασχήσω, κατέσχον",verb,I restrain,22
+"παρέχω, παρέξω or παρασχήσω, παρέσχον",verb,"I provide, cause, produce",22
+"πίεζω, πιέσω, ἐπίεσα",verb,I press hard upon,22
+"φιλέω, φιλήσω, ἐφίλησα, ἐφιλήθην",verb,"I love, like, am accustomed",22
+"αἰδέομαι, αἰδέσομαι, ᾐδεσάμην, ᾐδέσθην",verb (deponent),"I respect, revere",22
+"βουλεύομαι, βουλεύσομαι, ἐβουλευσάμην",verb (deponent),"I discuss, plan, consider",22
+"ἐπανέρχομαι, ἐπάνειμι, ἐπανῆλθον",verb (deponent),I return,22
+"κεῖμαι, κείσομαι, ἐκείμην",verb (deponent),I lie; am situated,22
+"δεῖ, δεήσει, ἐδέησε",verb (impers),it is necessary + ACC,22
+"ῥήγνυμι, ῥήξω, ἔρρηξα, ἐρράγην",verb (mi),I break,22
+"τίθημι, θήσω, ἔθηκα, ἐτέθην",verb (mi),I place; make,22

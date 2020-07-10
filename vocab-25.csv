@@ -1,0 +1,43 @@
+Greek,Part of Speech,English,Test
+"ἀνδρεῖος, ἀνδρεία, ἀνδρεῖον",adj 212,"brave, manly",25
+"θεῖος, θεία, θεῖον",adj 212,divine,25
+"μόνος, μόνη, μόνον",adj 212,alone,25
+"σφέτερος, σφετέρα, σφέτερον",adj 212,their,25
+"εὐγενής, εὐγενές",adj 33,noble,25
+ἤδη,adv,"(by) now, already",25
+μηκέτι,adv,no longer,25
+τάχα,adv,"quickly, perhaps / perhaps",25
+καίτοι,conj,and yet,25
+ποῦ,interrog,where?,25
+"ἀλήθεια, ἀληθείας, ἡ",noun 1 f,truth,25
+"γνώμη, γνώμης, ἡ",noun 1 f,"opinion, judgement, intention",25
+"μανία, μανίας, ἡ",noun 1 f,madness,25
+"τόλμα, τόλμης, ἡ",noun 1 f,daring,25
+"ἤπειρος, ἠπείρου, ἡ",noun 2 f,mainland,25
+"ἵππος, ἵππου, ὁ",noun 2 m,horse,25
+"υἱός, υἱοῦ, ὁ",noun 2 m,son,25
+"χαλκός, χαλκοῦ, ὁ",noun 2 m,bronze,25
+"ὅπλα, ὅπλων, τά",noun 2 n,"arms, armour, weapons",25
+"σημεῖον, σημείου, τό",noun 2 n,sign,25
+"γυνή, γυναικός, ἡ",noun 3 f,"woman, wife",25
+"μάντις, μάντεως, ὁ",noun 3 m,prophet,25
+"πρέσβυς, πρεσβέως, ὁ",noun 3 m,"elder, old man",25
+"ἔπος, ἔπους, τό",noun 3 n,word,25
+ἀπό,prep,from GEN,25
+"ἀλλήλους, ἀλλήλας, ἄλληλα",pronoun,each other,25
+"ἡμεῖς, ἡμῶν",pronoun,we,25
+"σφᾶς αὐτούς, σφᾶς αὐτάς, σφῶν αὐτῶν, σφίσιν αὐτοῖς",pronoun,themselves (reflexive),25
+"ἀγνοέω, ἀγνοήσω, ἠγνόησα, ἠγνοήθην",verb,I do not know,25
+"ἀνδραποδίζω, ἀνδραποδιῶ, ἠνδραπόδισα, ἠνδραποδίσθην",verb,I enslave,25
+"γιγνώσκω, γνώσομαι, ἔγνων, ἐγνώσθην",verb,"I (get to) know, realise, understand",25
+"ἐντυγχάνω, ἐντεύξομαι, ἐνέτυχον",verb,I meet DAT,25
+"καθαιρέω, καθαιρήσω or καθελῶ, καθεῖλον, καθῃρέθην",verb,"I destroy, pull down",25
+"καθεύδω, καθευδήσω, ἐκάθευδον",verb,I sleep,25
+"κάμνω, καμοῦμαι, ἔκαμον",verb,"I toil, am weary (of), am tired by",25
+"ὁράω, ὄψομαι, εἶδον, ὤφθην",verb,I see,25
+"τειχίζω, τειχιῶ, ἐτείχισα",verb,I fortify,25
+"φέρω, οἴσω, ἤνεγκα, ἠνέχθην",verb,"I carry, bear, endure",25
+"φύω, φύσω, ἔφυσα",verb,"(intr. ἔφυν, = I am), πέφυκα I beget; I am",25
+πρέπει,verb (impers),it is fitting (+ dat.),25
+"ἀφίστημι, ἀποστήσω, ἀπέστησα",verb (mi),I make to revolt,25
+πάρειμι,verb (mi),I am present,25

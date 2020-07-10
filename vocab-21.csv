@@ -1,0 +1,44 @@
+Greek,Part of Speech,English,Test
+"αἰσχρός, αἰσχρά, αἰσχρόν",adj 212,"disgraceful, ugly, shameful",21
+"ἐρῆμος, ἐρήμη, ἐρῆμον",adj 212,deserted,21
+"ἐσθλός, ἐσθλή, ἐσθλόν",adj 212,"good, noble",21
+"κακός, κακή, κακόν",adj 212,"bad, cowardly, wicked",21
+"πολέμιος, πολεμία, πολέμιον",adj 212,"hostile, of the enemy",21
+"χαλεπός, χαλεπή, χαλεπόν",adj 212,"difficult, harsh, dangerous",21
+"ἔπειτα, εἶτα",adv,"then, afterwards",21
+μάλα,adv,very,21
+σήμερον,adv,today,21
+ὅθεν,conj,whence,21
+πῶς,interrog,how,21
+"βοήθεια, βοηθείας, ἡ",noun 1 f,help,21
+"βουλή, βουλῆς, ἡ",noun 1 f,"counsel, council, plan",21
+"ἑορτή, ἑορτῆς, ἡ",noun 1 f,festival,21
+"θύρα, θύρας, ἡ",noun 1 f,door,21
+"προσβολή, προσβολῆς, ἡ",noun 1 f,attack,21
+"ὁδός, ὁδοῦ, ἡ",noun 2 f,"road, journey, path, way",21
+"πλοῦς, πλόος or πλοῦ, ὁ",noun 2 m,voyage,21
+"τάφος, τάφου, ὁ",noun 2 m,tomb,21
+"φρουρός, φρουροῦ, ὁ",noun 2 m,guard,21
+"λοιπόν, λοιποῦ, το",noun 2 n,the future,21
+"κύων, κυνός, ὁ, ἡ",noun 3 c,dog,21
+"αἰδώς, αἰδοῦς, ἡ",noun 3 f,"sense of shame, modesty",21
+"ἔαρ, ἔαρος / ἦρος, τό ",noun 3 n,spring,21
+"τέλος, τέλους, τό",noun 3 n,"end (adv. in the end), at last, finally",21
+ἄν,particle,"would, could (indefinite)",21
+γε,particle,"at any rate, at least, even",21
+κατά,prep,"down, according to, by ACC (e.g. land, sea)",21
+ὑμᾶς αὐτούς,pronoun,you yourselves (reflexive),21
+"ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδικήθην",verb,"I wrong, injure (someone)",21
+"βουλεύω, βουλεύσω, ἐβούλευσα",verb,"I discuss, plan, consider",21
+"κελεύω, κελεύσω, ἐκέλευσα, ἐκελεύσθην",verb,I order,21
+"κηρύσσω, κηρύξω, ἐκήρυξα, ἐκηρύχθην",verb,I proclaim,21
+"κλαίω, κλαύσομαι, ἔκλαυσα",verb,I weep,21
+"πάσχω, πείσομαι, ἔπαθον",verb,"I suffer, experience ",21
+"πληρόω, πληρώσω, ἐπλήρωσα, ἐπληρώθην",verb,"I fill, man (a ship)",21
+"σιωπάω, σιωπήσω, ἐσιώπησα, ἐσιωπήθην",verb,I am silent,21
+"τολμάω, τολμήσω, ἐτόλμησα, ἐτολμήθην",verb,I dare,21
+"αἱρέομαι, αἱρήσομαι, εἱλόμην",verb (deponent),I choose,21
+"δέχομαι, δέξομαι, ἐδεξάμην",verb (deponent),"I receive, welcome",21
+"ἐπιλανθάνομαι, ἐπιλήσομαι, ἐπελαθόμην",verb (deponent),I forget + GEN,21
+"φοβέομαι, φοβήσομαι, ἐφοβήθην",verb (deponent),I fear,21
+"ἀποδίδωμι, ἀποδώσω, ἀπέδωκα",verb (mi),"I give up, return; (mid) sell",21

@@ -1,0 +1,44 @@
+Greek,Part of Speech,English,Test
+"ἄλλος, ἄλλη, ἄλλο",adj 212,"other, another",24
+"ἑτοῖμος, ἑτοῖμον or ἑτοίμη, ἑτοῖμον",adj 212,ready,24
+"μικρός, μικρά, μικρόν",adj 212,"small, little",24
+"στενός, στενή, στενόν",adj 212,narrow,24
+"ἥσυχος, ἥσυχον",adj 22,calm,24
+εὐθύς,adv,"at once, immediately",24
+μηδαμῶς,adv,"in no way, not at all",24
+ταχ' ἄν,adv,"probably, perhaps",24
+ἵνα,conj,"so that, in order to",24
+μέντοι,conj,however; certainly,24
+τε,conj,and,24
+"γέφυρα, γεφύρας, ἡ",noun 1 f,bridge,24
+"γλῶσσα, γλώσσης, ἡ",noun 1 f,"tongue, language",24
+"σελήνη, σελήνης, ἡ",noun 1 f,moon,24
+"τέχνη, τέχνης, ἡ",noun 1 f,craft; skill,24
+"λῃστής, λῃστοῦ, ὁ",noun 1 m,"robber, pirate",24
+"ἔξοδος, ἐξόδου, ἡ",noun 2 f,exit,24
+"ἥλιος, ἡλίου, ὁ",noun 2 m,sun,24
+"μαντεῖον, μαντείου, τό",noun 2 n,oracle,24
+"ἱππεύς, ἱππέως, ὁ",noun 3 m,"cavalryman, (pl) the cavalry",24
+"πρέσβεις, πρεσβέων, οἱ",noun 3 m,ambassadors,24
+"ἄλγος, ἄλγους, τό",noun 3 n,pain,24
+"ὄνομα, ὀνόματος, τό",noun 3 n,name,24
+"ὕδωρ, ὕδατος, τό",noun 3 n,water,24
+"φῶς, φωτός, τό",noun 3 n,light,24
+ἆρα,particle,= a question,24
+ἐντός,prep,within (+ gen.); inside (adverb),24
+πρό,prep,"in front of, before GEN",24
+ἁμ' ἡμέρᾳ,prep phrase,at daybreak,24
+"ἁθροίζω or ἀθροίζω, ἀθροίσω, ἤθροισα, ἠθροίσθην",verb,I gather,24
+"βαδίζω, βαδιοῦμαι, ἐβάδισα",verb,I walk,24
+"γράφω, γράψω, ἔγραψα, ἐγράφην",verb,"I write, draw",24
+"ἐξαπατάω, ἐξαπατήσω, ἐξηπάτησα, ἐξηπατήθην",verb,I deceive,24
+"καθίζω, καθιῶ, ἐκάθισα",verb,"I make to sit down, sit down",24
+"καταφρονέω, καταφρονήσω, κατεφρονήσα",verb,I despise GEN,24
+"προχωρέω, προχωρήσω, προὐχώρησα",verb,I advance,24
+"τελευτάω, τελευτήσω, ἐτελεύτησα, ἐτελευτήθην",verb,I end; die,24
+"φεύγω, φεύξομαι, ἔφυγον",verb,"I flee, am accused, am banished, run away",24
+χρῄζω,verb,"I need, desire",24
+"καθῆμαι, καθήμην",verb (deponent),(impf.) I sit,24
+"ὀργίζομαι, ὀργιοῦμαι, ὠργίσθην",verb (deponent),I become angry (with DAT),24
+πάρεστι,verb (impers),it is possible,24
+"ἀνοίγνυμι, ἀνοίξω, ἀνέῳξα, ἀνεῴχθην",verb (mi),I open,24
