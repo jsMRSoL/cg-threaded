@@ -1,6 +1,7 @@
 use csv::Reader;
-use english_past::{lookup, Verb};
+// use english_past::{lookup, Verb};
 use greek_vocab_test_maker::*;
+use mw_past::{lookup, Verb};
 use ncurses::*;
 use regex::Regex;
 use std::char;
