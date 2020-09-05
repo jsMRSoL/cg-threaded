@@ -3,13 +3,13 @@
 <!-- question: 0  -->
 <question type="category">
 <category>
-<text>$course$/top/Vocabulary/A_2b</text>
+<text>$course$/top/Vocabulary/A_??</text>
 </category>
 </question>
 <!-- question: 1001  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1001</text>
+<text>A_??_q_1001</text>
 </name>
 <questiontext>
 <text>
@@ -25,7 +25,7 @@
 <!-- question: 1002  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1002</text>
+<text>A_??_q_1002</text>
 </name>
 <questiontext>
 <text>
@@ -41,7 +41,7 @@
 <!-- question: 1003  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1003</text>
+<text>A_??_q_1003</text>
 </name>
 <questiontext>
 <text>
@@ -57,7 +57,7 @@
 <!-- question: 1004  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1004</text>
+<text>A_??_q_1004</text>
 </name>
 <questiontext>
 <text>
@@ -73,7 +73,7 @@
 <!-- question: 1005  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1005</text>
+<text>A_??_q_1005</text>
 </name>
 <questiontext>
 <text>
@@ -89,7 +89,7 @@
 <!-- question: 1006  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1006</text>
+<text>A_??_q_1006</text>
 </name>
 <questiontext>
 <text>
@@ -105,7 +105,7 @@
 <!-- question: 1007  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1007</text>
+<text>A_??_q_1007</text>
 </name>
 <questiontext>
 <text>
@@ -121,7 +121,7 @@
 <!-- question: 1008  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1008</text>
+<text>A_??_q_1008</text>
 </name>
 <questiontext>
 <text>
@@ -137,7 +137,7 @@
 <!-- question: 1009  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1009</text>
+<text>A_??_q_1009</text>
 </name>
 <questiontext>
 <text>
@@ -153,7 +153,7 @@
 <!-- question: 1010  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1010</text>
+<text>A_??_q_1010</text>
 </name>
 <questiontext>
 <text>
@@ -169,7 +169,7 @@
 <!-- question: 1011  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1011</text>
+<text>A_??_q_1011</text>
 </name>
 <questiontext>
 <text>
@@ -185,7 +185,7 @@
 <!-- question: 1012  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1012</text>
+<text>A_??_q_1012</text>
 </name>
 <questiontext>
 <text>
@@ -201,7 +201,7 @@
 <!-- question: 1013  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1013</text>
+<text>A_??_q_1013</text>
 </name>
 <questiontext>
 <text>
@@ -217,7 +217,7 @@
 <!-- question: 1014  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1014</text>
+<text>A_??_q_1014</text>
 </name>
 <questiontext>
 <text>
@@ -233,7 +233,7 @@
 <!-- question: 1015  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1015</text>
+<text>A_??_q_1015</text>
 </name>
 <questiontext>
 <text>
@@ -249,7 +249,7 @@
 <!-- question: 1016  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1016</text>
+<text>A_??_q_1016</text>
 </name>
 <questiontext>
 <text>
@@ -265,7 +265,7 @@
 <!-- question: 1017  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1017</text>
+<text>A_??_q_1017</text>
 </name>
 <questiontext>
 <text>
@@ -281,7 +281,7 @@
 <!-- question: 1018  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1018</text>
+<text>A_??_q_1018</text>
 </name>
 <questiontext>
 <text>
@@ -297,7 +297,7 @@
 <!-- question: 1019  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1019</text>
+<text>A_??_q_1019</text>
 </name>
 <questiontext>
 <text>
@@ -313,7 +313,7 @@
 <!-- question: 1020  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1020</text>
+<text>A_??_q_1020</text>
 </name>
 <questiontext>
 <text>
@@ -329,7 +329,7 @@
 <!-- question: 1021  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1021</text>
+<text>A_??_q_1021</text>
 </name>
 <questiontext>
 <text>
@@ -345,7 +345,7 @@
 <!-- question: 1022  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1022</text>
+<text>A_??_q_1022</text>
 </name>
 <questiontext>
 <text>
@@ -361,7 +361,7 @@
 <!-- question: 1023  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1023</text>
+<text>A_??_q_1023</text>
 </name>
 <questiontext>
 <text>
@@ -377,7 +377,7 @@
 <!-- question: 1024  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1024</text>
+<text>A_??_q_1024</text>
 </name>
 <questiontext>
 <text>
@@ -393,7 +393,7 @@
 <!-- question: 1025  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1025</text>
+<text>A_??_q_1025</text>
 </name>
 <questiontext>
 <text>
@@ -409,7 +409,7 @@
 <!-- question: 1026  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1026</text>
+<text>A_??_q_1026</text>
 </name>
 <questiontext>
 <text>
@@ -425,7 +425,7 @@
 <!-- question: 1027  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1027</text>
+<text>A_??_q_1027</text>
 </name>
 <questiontext>
 <text>
@@ -441,7 +441,7 @@
 <!-- question: 1028  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1028</text>
+<text>A_??_q_1028</text>
 </name>
 <questiontext>
 <text>
@@ -457,7 +457,7 @@
 <!-- question: 1029  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1029</text>
+<text>A_??_q_1029</text>
 </name>
 <questiontext>
 <text>
@@ -473,183 +473,7 @@
 <!-- question: 1030  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1030</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἀδικέω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I wrong#Well done!~%50%*wrong*#Close! What part of the verb is this?~%100%I injure#Well done!~%50%*injure*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1031  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1031</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἀδικήσω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll wrong#Well done!~%50%*wrong*#Close! What part of the verb is this?~%100%I*ll injure#Well done!~%50%*injure*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1032  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1032</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἠδίκησα</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I wronged#Well done!~%50%*wrong*#Close! What part of the verb is this?~%100%I injured#Well done!~%50%*injure*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1033  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1033</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἠδικήθην</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I was wronged#Well done!~%50%*wrong*#Close! What part of the verb is this?~%100%I was injured#Well done!~%50%*injure*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1034  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1034</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>βουλεύω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I discuss#Well done!~%50%*discuss*#Close! What part of the verb is this?~%100%I plan#Well done!~%50%*plan*#Close! What part of the verb is this?~%100%I consider#Well done!~%50%*consider*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1035  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1035</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>βουλεύσω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll discuss#Well done!~%50%*discuss*#Close! What part of the verb is this?~%100%I*ll plan#Well done!~%50%*plan*#Close! What part of the verb is this?~%100%I*ll consider#Well done!~%50%*consider*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1036  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1036</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἐβούλευσα</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I discussed#Well done!~%50%*discuss*#Close! What part of the verb is this?~%100%I planed#Well done!~%50%*plan*#Close! What part of the verb is this?~%100%I considered#Well done!~%50%*consider*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1037  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1037</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>κελεύω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I order#Well done!~%50%*order*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1038  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1038</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>κελεύσω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll order#Well done!~%50%*order*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1039  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1039</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἐκέλευσα</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I ordered#Well done!~%50%*order*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1040  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1040</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἐκελεύσθην</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I was ordered#Well done!~%50%*order*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1041  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1041</text>
+<text>A_??_q_1030</text>
 </name>
 <questiontext>
 <text>
@@ -662,10 +486,10 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
-<!-- question: 1042  -->
+<!-- question: 1031  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1042</text>
+<text>A_??_q_1031</text>
 </name>
 <questiontext>
 <text>
@@ -678,10 +502,10 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
-<!-- question: 1043  -->
+<!-- question: 1032  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1043</text>
+<text>A_??_q_1032</text>
 </name>
 <questiontext>
 <text>
@@ -694,10 +518,10 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
-<!-- question: 1044  -->
+<!-- question: 1033  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1044</text>
+<text>A_??_q_1033</text>
 </name>
 <questiontext>
 <text>
@@ -710,10 +534,10 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
-<!-- question: 1045  -->
+<!-- question: 1034  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1045</text>
+<text>A_??_q_1034</text>
 </name>
 <questiontext>
 <text>
@@ -726,10 +550,10 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
-<!-- question: 1046  -->
+<!-- question: 1035  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1046</text>
+<text>A_??_q_1035</text>
 </name>
 <questiontext>
 <text>
@@ -742,10 +566,10 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
-<!-- question: 1047  -->
+<!-- question: 1036  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1047</text>
+<text>A_??_q_1036</text>
 </name>
 <questiontext>
 <text>
@@ -758,10 +582,186 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
+<!-- question: 1037  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1037</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>τολμάω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I dare#Well done!~%50%*dare*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1038  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1038</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>τολμήσω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll dare#Well done!~%50%*dare*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1039  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1039</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἐτόλμησα</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I dared#Well done!~%50%*dare*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1040  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1040</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἐτολμήθην</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I was dared#Well done!~%50%*dare*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1041  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1041</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>σιωπάω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I am silent#Well done!~%50%*am* silent#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1042  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1042</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>σιωπήσω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll am silent#Well done!~%50%*am* silent#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1043  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1043</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἐσιώπησα</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I amed silent#Well done!~%50%*am* silent#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1044  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1044</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἐσιωπήθην</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I was amed silent#Well done!~%50%*am* silent#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1045  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1045</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>αἱρέομαι</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I choose#Well done!~%50%*choose*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1046  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1046</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>αἱρήσομαι</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll choose#Well done!~%50%*choose*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1047  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1047</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>εἱλόμην</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I chose#Well done!~%50%*choose*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
 <!-- question: 1048  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1048</text>
+<text>A_??_q_1048</text>
 </name>
 <questiontext>
 <text>
@@ -777,7 +777,7 @@
 <!-- question: 1049  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1049</text>
+<text>A_??_q_1049</text>
 </name>
 <questiontext>
 <text>
@@ -793,7 +793,7 @@
 <!-- question: 1050  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1050</text>
+<text>A_??_q_1050</text>
 </name>
 <questiontext>
 <text>
@@ -809,295 +809,7 @@
 <!-- question: 1051  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1051</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>πληρόω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I fill#Well done!~%50%*fill*#Close! What part of the verb is this?~%100%I man#Well done!~%50%*man*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1052  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1052</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>πληρώσω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll fill#Well done!~%50%*fill*#Close! What part of the verb is this?~%100%I*ll man#Well done!~%50%*man*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1053  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1053</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἐπλήρωσα</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I filled#Well done!~%50%*fill*#Close! What part of the verb is this?~%100%I maned#Well done!~%50%*man*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1054  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1054</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἐπληρώθην</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I was filled#Well done!~%50%*fill*#Close! What part of the verb is this?~%100%I was maned#Well done!~%50%*man*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1055  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1055</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>σιωπάω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I am silent#Well done!~%50%*am* silent#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1056  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1056</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>σιωπήσω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll am silent#Well done!~%50%*am* silent#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1057  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1057</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἐσιώπησα</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I amed silent#Well done!~%50%*am* silent#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1058  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1058</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἐσιωπήθην</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I was amed silent#Well done!~%50%*am* silent#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1059  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1059</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>τολμάω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I dare#Well done!~%50%*dare*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1060  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1060</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>τολμήσω</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll dare#Well done!~%50%*dare*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1061  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1061</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἐτόλμησα</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I dared#Well done!~%50%*dare*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1062  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1062</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἐτολμήθην</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I was dared#Well done!~%50%*dare*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1063  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1063</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>αἱρέομαι</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I choose#Well done!~%50%*choose*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1064  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1064</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>αἱρήσομαι</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll choose#Well done!~%50%*choose*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1065  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1065</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>εἱλόμην</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I chose#Well done!~%50%*choose*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1066  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1066</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>δέχομαι</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I receive#Well done!~%50%*receive*#Close! What part of the verb is this?~%100%I welcome#Well done!~%50%*welcome*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1067  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1067</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>δέξομαι</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll receive#Well done!~%50%*receive*#Close! What part of the verb is this?~%100%I*ll welcome#Well done!~%50%*welcome*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1068  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1068</text>
-</name>
-<questiontext>
-<text>
-<![CDATA[<p>ἐδεξάμην</p>
-<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I received#Well done!~%50%*receive*#Close! What part of the verb is this?~%100%I welcomed#Well done!~%50%*welcome*#Close! What part of the verb is this?}.</font></p>]]>
-</text>
-</questiontext>
-<generalfeedback>
-<text></text>
-</generalfeedback>
-<shuffleanswers>0</shuffleanswers>
-</question>
-<!-- question: 1069  -->
-<question type="cloze" > 
-<name>
-<text>A_2b_q_1069</text>
+<text>A_??_q_1051</text>
 </name>
 <questiontext>
 <text>
@@ -1110,10 +822,10 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
-<!-- question: 1070  -->
+<!-- question: 1052  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1070</text>
+<text>A_??_q_1052</text>
 </name>
 <questiontext>
 <text>
@@ -1126,10 +838,10 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
-<!-- question: 1071  -->
+<!-- question: 1053  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1071</text>
+<text>A_??_q_1053</text>
 </name>
 <questiontext>
 <text>
@@ -1142,10 +854,58 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
-<!-- question: 1072  -->
+<!-- question: 1054  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1072</text>
+<text>A_??_q_1054</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>δέχομαι</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I receive#Well done!~%50%*receive*#Close! What part of the verb is this?~%100%I welcome#Well done!~%50%*welcome*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1055  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1055</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>δέξομαι</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll receive#Well done!~%50%*receive*#Close! What part of the verb is this?~%100%I*ll welcome#Well done!~%50%*welcome*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1056  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1056</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἐδεξάμην</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I received#Well done!~%50%*receive*#Close! What part of the verb is this?~%100%I welcomed#Well done!~%50%*welcome*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1057  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1057</text>
 </name>
 <questiontext>
 <text>
@@ -1158,10 +918,10 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
-<!-- question: 1073  -->
+<!-- question: 1058  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1073</text>
+<text>A_??_q_1058</text>
 </name>
 <questiontext>
 <text>
@@ -1174,10 +934,10 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
-<!-- question: 1074  -->
+<!-- question: 1059  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1074</text>
+<text>A_??_q_1059</text>
 </name>
 <questiontext>
 <text>
@@ -1190,10 +950,250 @@
 </generalfeedback>
 <shuffleanswers>0</shuffleanswers>
 </question>
+<!-- question: 1060  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1060</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἀδικέω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I wrong#Well done!~%50%*wrong*#Close! What part of the verb is this?~%100%I injure#Well done!~%50%*injure*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1061  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1061</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἀδικήσω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll wrong#Well done!~%50%*wrong*#Close! What part of the verb is this?~%100%I*ll injure#Well done!~%50%*injure*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1062  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1062</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἠδίκησα</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I wronged#Well done!~%50%*wrong*#Close! What part of the verb is this?~%100%I injured#Well done!~%50%*injure*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1063  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1063</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἠδικήθην</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I was wronged#Well done!~%50%*wrong*#Close! What part of the verb is this?~%100%I was injured#Well done!~%50%*injure*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1064  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1064</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>κελεύω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I order#Well done!~%50%*order*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1065  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1065</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>κελεύσω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll order#Well done!~%50%*order*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1066  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1066</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἐκέλευσα</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I ordered#Well done!~%50%*order*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1067  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1067</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἐκελεύσθην</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I was ordered#Well done!~%50%*order*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1068  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1068</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>πληρόω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I fill#Well done!~%50%*fill*#Close! What part of the verb is this?~%100%I man#Well done!~%50%*man*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1069  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1069</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>πληρώσω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll fill#Well done!~%50%*fill*#Close! What part of the verb is this?~%100%I*ll man#Well done!~%50%*man*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1070  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1070</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἐπλήρωσα</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I filled#Well done!~%50%*fill*#Close! What part of the verb is this?~%100%I maned#Well done!~%50%*man*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1071  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1071</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἐπληρώθην</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I was filled#Well done!~%50%*fill*#Close! What part of the verb is this?~%100%I was maned#Well done!~%50%*man*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1072  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1072</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>βουλεύω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I discuss#Well done!~%50%*discuss*#Close! What part of the verb is this?~%100%I plan#Well done!~%50%*plan*#Close! What part of the verb is this?~%100%I consider#Well done!~%50%*consider*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1073  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1073</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>βουλεύσω</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I*ll discuss#Well done!~%50%*discuss*#Close! What part of the verb is this?~%100%I*ll plan#Well done!~%50%*plan*#Close! What part of the verb is this?~%100%I*ll consider#Well done!~%50%*consider*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
+<!-- question: 1074  -->
+<question type="cloze" > 
+<name>
+<text>A_??_q_1074</text>
+</name>
+<questiontext>
+<text>
+<![CDATA[<p>ἐβούλευσα</p>
+<p><font size="4" face="times new roman,times,serif"> {1:SHORTANSWER:~%100%I discussed#Well done!~%50%*discuss*#Close! What part of the verb is this?~%100%I planed#Well done!~%50%*plan*#Close! What part of the verb is this?~%100%I considered#Well done!~%50%*consider*#Close! What part of the verb is this?}.</font></p>]]>
+</text>
+</questiontext>
+<generalfeedback>
+<text></text>
+</generalfeedback>
+<shuffleanswers>0</shuffleanswers>
+</question>
 <!-- question: 1075  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1075</text>
+<text>A_??_q_1075</text>
 </name>
 <questiontext>
 <text>
@@ -1209,7 +1209,7 @@
 <!-- question: 1076  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1076</text>
+<text>A_??_q_1076</text>
 </name>
 <questiontext>
 <text>
@@ -1225,7 +1225,7 @@
 <!-- question: 1077  -->
 <question type="cloze" > 
 <name>
-<text>A_2b_q_1077</text>
+<text>A_??_q_1077</text>
 </name>
 <questiontext>
 <text>

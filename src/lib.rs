@@ -16,10 +16,7 @@ impl Clone for Question {
             let ao_dup = answer.clone();
             answers.push(ao_dup);
         }
-        Question {
-            greek,
-            answers,
-        }
+        Question { greek, answers }
     }
 }
 
@@ -79,4 +76,3 @@ pub fn prompt() {
     refresh();
     getch();
 }
-
