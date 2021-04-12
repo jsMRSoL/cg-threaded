@@ -31,7 +31,8 @@ fn main() {
 
 fn run() -> Result<(), Box<dyn Error>> {
     let mut questions: Vec<Question> = Vec::new();
-    setlocale(ncurses::constants::LcCategory::all, "utf8");
+    let locale_conf = LcCategory::all;
+    setlocale(locale_conf, "el_GR.UTF-8");
     initscr();
     noecho();
     loop {
